@@ -44,6 +44,8 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQLMap-CC0000?&style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nikto-FF6600?&style=for-the-badge&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-512BD4?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FB542B?&style=for-the-badge&logo=burp&logoColor=white" />
 </div>
 
 ### SIEM & Monitoring  
