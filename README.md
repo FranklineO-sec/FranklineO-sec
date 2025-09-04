@@ -11,7 +11,6 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 ## 🎓 Education  
 - **BSc. Health Records and Information Management** – Kenyatta University (2018–2022)  
 - **Cisco Ethical Hacker Track** – Cyber Shujaa (Aug 2025)  
-- **AI Career Essentials** – ALX Africa (Jul 2024)  
 
 ## 🛠 Skills  
 
