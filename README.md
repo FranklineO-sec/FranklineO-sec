@@ -18,7 +18,7 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 |-----------------------------------------------|------------------------------------------------------------------------------------|
 | Web Server Vulnerability Exploitation         | <a href="https://github.com/FranklineO-sec/Exploiting-Web-Server-Misconfiguration/blob/main/README.md">Exploiting Web Server Misconfiguration</a>   |
 | SMB Enumeration & Exploitation                | <a href="https://github.com/FranklineO-sec/Exploiting-Open-SMB-Shares/blob/main/README.md">Exploiting Open SMB Shares</a>                          |
-| SQL Injection & Credential Hash Cracking      | [SQL Injection & System Breach Simulation](#sql-injection--system-breach-simulation)|
+| SQL Injection & Credential Hash Cracking      | <a href="https://github.com/FranklineO-sec/SQL-Injection-System-Breach-Simulation/blob/main/README.md">SQL Injection & System Breach Simulation</a>|
 | Network Traffic & PCAP Analysis               | [PCAP File & Network Traffic Analysis](#pcap-file--network-traffic-analysis)        |
 | Data Security & Compliance                    | [Hospital Internship](#hospital-internship)                                        |
 
@@ -68,5 +68,5 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 ## 🚀 Projects  
 - <a href="https://github.com/FranklineO-sec/Exploiting-Open-SMB-Shares/blob/main/README.md">Exploiting Open SMB Shares</a>
 - <a href="https://github.com/FranklineO-sec/Exploiting-Web-Server-Misconfiguration/blob/main/README.md">Exploiting Web Server Misconfiguration</a>
-- SQL Injection & System Breach Simulation 
+- <a href="https://github.com/FranklineO-sec/SQL-Injection-System-Breach-Simulation/blob/main/README.md">SQL Injection & System Breach Simulation</a> 
 - PCAP File & Network Traffic Analysis  
