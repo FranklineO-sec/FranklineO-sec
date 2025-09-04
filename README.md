@@ -16,7 +16,7 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 
 | Skill                                         | Associated Project                                                                 |
 |-----------------------------------------------|------------------------------------------------------------------------------------|
-| Web Server Vulnerability Exploitation         | [Exploiting Web Server Misconfiguration](#exploiting-web-server-misconfiguration)   |
+| Web Server Vulnerability Exploitation         | <a href="https://github.com/FranklineO-sec/Exploiting-Web-Server-Misconfiguration/blob/main/README.md">Exploiting Web Server Misconfiguration</a>   |
 | SMB Enumeration & Exploitation                | <a href="https://github.com/FranklineO-sec/Exploiting-Open-SMB-Shares/blob/main/README.md">Exploiting Open SMB Shares</a>                          |
 | SQL Injection & Credential Hash Cracking      | [SQL Injection & System Breach Simulation](#sql-injection--system-breach-simulation)|
 | Network Traffic & PCAP Analysis               | [PCAP File & Network Traffic Analysis](#pcap-file--network-traffic-analysis)        |
@@ -67,6 +67,6 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 
 ## 🚀 Projects  
 - <a href="https://github.com/FranklineO-sec/Exploiting-Open-SMB-Shares/blob/main/README.md">Exploiting Open SMB Shares</a>
-- Exploiting Web Server Misconfiguration
+- <a href="https://github.com/FranklineO-sec/Exploiting-Web-Server-Misconfiguration/blob/main/README.md">Exploiting Web Server Misconfiguration</a>
 - SQL Injection & System Breach Simulation 
 - PCAP File & Network Traffic Analysis  
