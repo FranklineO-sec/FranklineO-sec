@@ -1,4 +1,5 @@
 # Hello, I'm Frankline Otieno  
+<a href="https://buttery-dresser-84a.notion.site/Frankline-Otieno-Odero-Cybersecurity-Specialist-37b17ab26b0e45f9944830d97c48555e"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=notion&logoColor=white" /></a>  
 <a href="https://www.linkedin.com/in/frankline-otieno-b5a448246"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="mailto:franc.otieno22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 
@@ -10,7 +11,7 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 
 ## 🎓 Education  
 - **BSc. Health Records and Information Management** – Kenyatta University (2018–2022)  
-- **Cisco Ethical Hacker Track** – Cyber Shujaa (Aug 2025)  
+- **Cisco Ethical Hacker Track** – Cyber Shujaa (Jun 2025-Aug 2025)  
 
 ## 🛠 Skills  
 
