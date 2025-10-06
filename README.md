@@ -1,7 +1,9 @@
 # Hello, I'm Frankline Otieno  
 
 <a href="mailto:franc.otieno22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-<a href="https://www.credly.com/users/frankline-otieno.4bee4d61/badges#credly"><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" /></a>  
+<a href="https://www.credly.com/users/frankline-otieno.4bee4d61/badges#credly"><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" />
+<a href="https://franklineo-sec.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-0078D4?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>  
 
 ## 👨‍💻 About Me  
 I am a **Cybersecurity Specialist** with hands-on experience in penetration testing, vulnerability assessment, and network traffic analysis. My work focuses on exploiting and securing real-world vulnerabilities, and strengthening defenses. I enjoy solving complex security challenges, simulating attack scenarios, and proposing remediation strategies that protect critical systems.  
@@ -11,7 +13,11 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 
 ## 🎓 Education  
 - **BSc. Health Records and Information Management** – Kenyatta University (2018–2022)  
-- **Cisco Ethical Hacker Track** – Cyber Shujaa (Jun 2025-Aug 2025)  
+
+## 📜 Certifications  
+- **Security Analyst** – Cyber Shujaa (Sep 2025-Present)  
+- **Cisco Ethical Hacker Track** – Cyber Shujaa (Jun 2025-Aug 2025)
+- **AI Career Essentials** - ALX Africa  
 
 ## 🛠 Skills  
 
@@ -58,12 +64,6 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
    
-</div>
-
-## 📜 Certifications  
-<div>
-<img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker-1C1C1C?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-AI_Career_Essentials-FF6F00?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## 🚀 Projects  
