@@ -17,7 +17,7 @@ My goal is to leverage my skills in **offensive and defensive security** to buil
 ## 📜 Certifications  
 - **Security Analyst** – Cyber Shujaa (Sep 2025-Present)  
 - **Cisco Ethical Hacker Track** – Cyber Shujaa (Jun 2025-Aug 2025)
-- **AI Career Essentials** - ALX Africa  
+- **AI Career Essentials** - ALX Africa (May 2024-Jul 2024) 
 
 ## 🛠 Skills  
 
