@@ -3,6 +3,8 @@
 <a href="mailto:franc.otieno22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 <a href="https://www.credly.com/users/frankline-otieno.4bee4d61/badges#credly"><img src="https://img.shields.io/badge/-Credly-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" />
 <a href="https://franklineo-sec.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-0078D4?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="www.linkedin.com/in/frankline-otieno "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+
 </a>  
 
 ## 👨‍💻 About Me  
