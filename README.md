@@ -8,16 +8,16 @@
 </a>  
 
 ## 👨‍💻 About Me  
-I am a **Cybersecurity Specialist** with hands-on experience in penetration testing, vulnerability assessment, and network traffic analysis. My work focuses on exploiting and securing real-world vulnerabilities, and strengthening defenses. I enjoy solving complex security challenges, simulating attack scenarios, and proposing remediation strategies that protect critical systems.  
+I am a **Cybersecurity Specialist** with hands-on experience in penetration testing, vulnerability assessment, SOC Operations, and network traffic analysis. My work focuses on exploiting and securing real-world vulnerabilities, and strengthening defenses. I enjoy solving complex security challenges, simulating attack scenarios, and proposing remediation strategies that protect critical systems.  
 
 ## 🎯 Objective  
-My goal is to leverage my skills in **offensive and defensive security** to build resilient environments, identify vulnerabilities before adversaries do, and contribute to secure digital ecosystems. I am actively pursuing opportunities in **SOC analysis, penetration testing, and threat detection**.  
+My goal is to leverage my skills in **offensive and defensive security** to build resilient environments, identify vulnerabilities before adversaries do, and contribute to secure digital ecosystems.
 
 ## 🎓 Education  
 - **BSc. Health Records and Information Management** – Kenyatta University (2018–2022)  
 
 ## 📜 Certifications  
-- **Security Analyst** – Cyber Shujaa (Sep 2025-Present)  
+- **Security Analyst** – Cyber Shujaa (Sep 2025-Dec 2025)  
 - **Cisco Ethical Hacker Track** – Cyber Shujaa (Jun 2025-Aug 2025)
 - **AI Career Essentials** - ALX Africa (May 2024-Jul 2024) 
 
